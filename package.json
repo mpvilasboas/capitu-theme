@@ -1,0 +1,26 @@
+{
+  "name": "capitu",
+  "displayName": "Capitu",
+  "description": "the theme that won't hurt my eyes",
+  "publisher": "p0ntiun",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvb/p0nts-theme"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Capitu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/capitu-color-theme.json"
+      }
+    ]
+  }
+}
