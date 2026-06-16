@@ -2,6 +2,7 @@
   "name": "capitu",
   "displayName": "Capitu",
   "description": "the theme that won't hurt my eyes",
+  "icon": "images/capitu.png",
   "publisher": "p0ntiun",
   "repository": {
     "type": "git",
